@@ -1,10 +1,12 @@
 {
-  "origins": [
-    "https://danywalls.com",
-    "https://www.danywalls.com"
-  ],
-  "originsRegex": [
-    "http://localhost:[0-9]+"
-  ],
-  "defaultCommentOrder": "newest"
+    "origins": [
+        "https://danywalls.com",
+        "https://www.danywalls.com",
+        "https://danywalls.dev",
+        "https://www.danywalls.dev"
+    ],
+    "originsRegex": [
+        "http://localhost:[0-9]+"
+    ],
+    "defaultCommentOrder": "newest"
 }
